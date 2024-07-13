@@ -35,3 +35,7 @@ Install the necessary dependencies:
 ## Dataset
 
 The data used in this project is sourced from [Kaggle](https://www.kaggle.com/datasets/chopper53/machine-learning-engineer-salary-in-2024).
+
+## AWS Host link
+
+AWS cloudfront deployment [link](https://d199u6n5uy9hg9.cloudfront.net).
